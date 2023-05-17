@@ -105,3 +105,14 @@ a {
     color-scheme: dark;
   }
 }
+
+input {
+  padding: 0.5rem;
+  border: 1px solid rgba(var(--callout-border-rgb), 0.3);
+  border-radius: var(--border-radius);
+  width: 100%;
+  max-width: 300px;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+

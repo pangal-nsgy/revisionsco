@@ -51,15 +51,11 @@
 
 /* New styles */
 
-input {
+.myInput {
   padding: 0.5rem;
   border: 1px solid rgba(var(--callout-border-rgb), 0.3);
-  border-radius: var(--border-radius);
-  width: 100%;
-  max-width: 300px;
-  margin-bottom: 1rem;
-  font-size: 1rem;
 }
+
 
 button {
   background-color: rgba(var(--callout-rgb), 0.1);
